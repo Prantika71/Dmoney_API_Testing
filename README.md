@@ -46,6 +46,8 @@ https://docs.google.com/spreadsheets/u/1/d/1GQY53v4tGsWNzhEgBYWHaPfkY4mxDnZa/edi
 
 # Newman Report:
 ![image](https://github.com/user-attachments/assets/daca9d38-df9f-4aaf-add7-4588d0a378fa)
+![image](https://github.com/user-attachments/assets/bbd4fb83-aa79-4d19-84a4-2c215140cfd8)
+
 
 
 
