@@ -42,7 +42,7 @@ https://documenter.getpostman.com/view/35021614/2sAYBXDBjD
 https://docs.google.com/spreadsheets/u/1/d/1exjz9p9Y_QhtDo_ywce04vdBxVqYsjnv/edit?usp=drive_web&ouid=105885749439177793646&rtpof=true
 
 # Bug_Report:
-https://docs.google.com/spreadsheets/u/1/d/1GQY53v4tGsWNzhEgBYWHaPfkY4mxDnZa/edit?usp=drive_web&ouid=105885749439177793646&rtpof=true
+https://docs.google.com/spreadsheets/d/15tgOiVe5UiL28fUhztIXCsrl6fL-uAFa/edit?gid=1814657299#gid=1814657299
 
 # Newman Report:
 ![image](https://github.com/user-attachments/assets/daca9d38-df9f-4aaf-add7-4588d0a378fa)
